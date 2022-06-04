@@ -15,8 +15,8 @@ Console.Write("\nBem Vindo ao Simulador!\n");
 
 do{
     Console.Write("\nO que você deseja fazer?\n");
-    Console.Write("\nAperte 1 para verificar a string?");
-    Console.Write("\nAperte 2 para encerrar o programa?");
+    Console.Write("\nAperte 1 para verificar a string");
+    Console.Write("\nAperte 2 para encerrar o programa");
     Console.Write("\nEntre com a sua opção: \n");
     userEscolha = Console.ReadLine();
     switch(userEscolha){
